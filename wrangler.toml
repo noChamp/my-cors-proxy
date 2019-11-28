@@ -1,0 +1,6 @@
+name = "my-cors-proxy"
+type = "javascript"
+account_id = "fe9216cc7c1d83c6f07b33799c84dcd8"
+workers_dev = true
+route = ""
+zone_id = ""
